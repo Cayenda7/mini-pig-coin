@@ -1,0 +1,17 @@
+{
+  "name": "Mini Pig Coin",
+  "symbol": "MINIPIG",
+  "description": "Mini Pig Coin is a Solana-based memecoin aimed at creating a community-driven ecosystem with fun, engagement, and utility.",
+  "contract_address": "EDmdCnx4tXh2TUSuUnQLLxyqTyHozCsmgWnQzQDCwQ1f",
+  "decimals": 9,
+  "website": "https://www.minipigcoinsol.com",
+  "explorer": "https://explorer.solana.com/address/EDmdCnx4tXh2TUSuUnQLLxyqTyHozCsmgWnQzQDCwQ1f/tokens?cluster=mainnet",
+  "logo": "https://github.com/Cayenda7/mini-pig-coin/blob/8c0daed101f6f8e78d553005458f58e81b8b6716/minipigcoin.png",
+  "tags": ["memecoin", "solana", "community"],
+  "links": {
+    "github": "https://github.com/Cayenda7/mini-pig-coin",
+    "twitter": "https://x.com/MINIPIGCOINSOL",
+    "telegram": "https://t.me/buyminipigcoin",
+    "whitepaper": "https://www.minipigcoinsol.com/whitepaper"
+  }
+}
